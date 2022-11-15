@@ -1,9 +1,7 @@
 {
     "name": "er1z/multi-api-platform-bundle",
     "description": "Provides an ability to create more than one API in single app",
-    "require": {
-        "api-platform/api-pack": "^1.1"
-    },
+    "require": {},
     "autoload": {
         "psr-4": {
             "Er1z\\MultiApiPlatform\\": "src/"
